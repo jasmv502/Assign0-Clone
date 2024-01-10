@@ -29,7 +29,7 @@ Hello! My name is Kris Jeong and I'm a senior majoring in CS (AI track) & coterm
 - Led coordination and communication between UX engineers, Product Management & Business Development as project lead
 - Upgraded open-source NLP framework “Pororo” (by Kakao Brain Corp.) to add word timestamp features
 
-4. **Curriculum Designer/Coding Instructor**
+4. **Curriculum Designer/Coding Instructor @ WiCS Outreach Team**
 
 - Mentored and taught coding weekly to ~15 low-income, first-generation middle school students. Designed coding curriculum, including teaching tools in Python and JavaScript. Led successful transition to remote learning through passion projects
 
