@@ -40,7 +40,7 @@ Utilized Python libraries such as BeautifulSoup to parse website HTML and autofi
 
 # Past Experience
 
-## Internships
+## Work Experience
 
 ### Full-Stack Developer Intern
 
@@ -58,9 +58,8 @@ Utilized Python libraries such as BeautifulSoup to parse website HTML and autofi
 
 ### Mobile App CS 147
 
-- Spearheaded the development lifecycle of a mobile application, leveraging React Native for the Front-End and Supabase as the Back-End database.
+- led the development lifecycle of the mobile application, leveraging React Native for the Front-End and Supabase as the Back-End database.
 - Collaborated closely with educational instructors to understand their specific needs and challenges, ensuring the mobile application was tailored to enhance teaching efficiency.
 - Implemented responsive and user-friendly interfaces, optimizing the application for both iOS and Android platforms.
-- Conducted regular testing and debugging to ensure the application's stability, functionality, and performance met high standards.
-- Integrated real-time data synchronization with Supabase to provide up-to-date information for instructors and enhance the overall user experience.
+- Conducted regular testing and debugging to ensure the application's stability, functionality, and performance met high standards
 - Worked on Figma to prototype and design intial stages of the mobile app.
