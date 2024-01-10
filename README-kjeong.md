@@ -37,7 +37,7 @@ Hello! My name is Kris Jeong and I'm a senior majoring in CS (AI track) & coterm
 
 1. **BestReads (2023)**
 
-   Tools: React Native, Expo Go, JavaScript, Project Gutenberg API, Figma
+   _Tools: React Native, Expo Go, JavaScript, Project Gutenberg API, Figma_
 
    - Transforming reading experience by combining e-reader with recommendation algorithm and social network
 
