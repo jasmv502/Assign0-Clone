@@ -10,11 +10,12 @@
 
 ## About Me
 
-👋🏾 I'm Leilenah - co-founder of a startup called Eave Technologies and 2nd year
-MSCS student (HCI track). I took a break in-between undergrad and grad school to
-work as a Software Engineer in industry. My strength is software development, but
-I also enjoy user reasearch and UX/UI design (hence the HCI specialization 🙂).
-I'm looking forward to building something awesome with cool people in this class!
+👋🏾 I'm Leilenah - a co-founder of a B2B SaaS startup called Eave Technologies
+and a 2nd year MSCS student (HCI track). I took a break in-between undergrad and
+grad school to work as a Software Engineer in industry. My strengths are software
+development and software project management, but I also enjoy user reasearch and
+UX/UI design (hence the HCI specialization 🙂). I'm looking forward to building
+something awesome with cool people in this class!
 
 ## Work Experience
 
@@ -42,18 +43,6 @@ Amazon (~2 yrs)
 <br />
 The Walt Disney Company (~2.5 yrs)
 <br />
-
-## Programming Languages
-•   Python <br/>
-•   JavaScript <br/>
-•   TypeScript <br/>
-•   C <br/>
-•   C++ <br/>
-•   Ruby <br/>
-•   PHP <br/>
-•   Liquid <br/>
-•   HTML5 <br/>
-•   CSS <br/>
 
 ## Design Projects
 
