@@ -15,6 +15,9 @@ I am senior studying CS on the AI track interested in creating AI/ML products
 - Performed fine-tuning and zero-shot evaluation on Alpaca LLM to annotate veterinarian medical text datasets with disease labels, a task previously done with fully supervised and unsupervised training of language models
 - Built Python/Jupyter/bash scripts for prompt engineering 15+ few-shot, zero-shots, and chain-of thought schemes
 Established both an evaluation pipeline and metric visualization for zero-shot disease classification        
+### CURIS, Stanford Movement Lab June 2022 – August 2022
+- Created a baseline model for predicting human arm poses given motion capture data
+- Iteratively developed data modification and augmentation algorithms applying implicit equations as scaffolding to extrapolate and determine a subject’s range of flexible motion, leveraging knowledge of Pytorch and Matlab
 
 ### NASA Ames Center, Software Engineering Intern (Full-Stack) June 2021 – August 2021
 - Constructed an internal timeline web application, to visualize mission progress for various NASA teams
