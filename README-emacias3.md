@@ -14,8 +14,9 @@ Programming Languages That I Know:
 ## My Projects
 The project that I am most proud of is my CS147 project (introduction to human-computer interaction)
 where my team and I designed and built an app where musicians can upload music and performances
-for feedback and can give feedback to other musicians. Our team when through the entire design
+for feedback and can give feedback to other musicians. Our team went through the entire design
 process which included conducting interviews, brainstorming needs, creating a low-fi prototype,
-conducting user tests, creating a Figma med-fi prototype, and coding the app! You can learn
+conducting user tests, creating a Figma med-fi prototype, and coding the app. I was able to gain 
+a lot of experience with frontend development and introductory experience with backend. You can learn
 more about keynotes at: https://web.stanford.edu/class/cs147/projects/HarmoniousTies/keynotes/
                                                                                              
