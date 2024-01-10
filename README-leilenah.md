@@ -1,11 +1,3 @@
-<!-- Inside of this README, use markdown to outline your
-
-        technical skills
-        previous projects
-        or any past experiences you would like to highlight.
-
-Consider this README as an introduction to your potential teammates and feel free to include any images, links, or additional media. -->
-
 <p align="center">
     <img src="./assets/leilenah-profile-photo.png">
     <br/>
