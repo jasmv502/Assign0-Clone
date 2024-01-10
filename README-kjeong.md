@@ -36,27 +36,32 @@ Hello! My name is Kris Jeong and I'm a senior majoring in CS (AI track) & coterm
 ## Projects
 
 1. **BestReads (2023)**
+
    Tools: React Native, Expo Go, JavaScript, Project Gutenberg API, Figma
 
    - Transforming reading experience by combining e-reader with recommendation algorithm and social network
 
 2. **Ranking Course Difficulties (2023)**
-   Tools: Python, Hugging Face transformers, BERT
+
+   _Tools: Python, Hugging Face transformers, BERT_
 
    - Collaborated with Carta, Stanford's course review database, to produce overall perceived difficulty of a course through various AI techniques such as Naive Bayes, k-means, sentiment analysis, fine-tuning BERT
 
 3. **Using Generative AI to solve Math Word Problems (2023)**
-   Tools: Flan-T5, GPT2, GPT3, few-shot prompting
+
+   _Tools: Flan-T5, GPT2, GPT3, few-shot prompting_
 
    - Developing AI model based on LLMs to solve Math Word Problems and produce natural, human-interpretable rationales
 
 4. **Curio: The Prosocial Social Network (2022)**
-   Tools: MongoDB, Heroku, JavaScript, Node.js, React.js,
+
+   _Tools: MongoDB, Heroku, JavaScript, Node.js, React.js_
 
    - A social network app that fundamentally reduces toxicity online by forming structures for prosocial interactions
 
 5. **Moderating COVID-19 Misinformation on Social Media (2022)**
-   Tools: Python, RoBERTa, Hugging Face transformers, Discord API
+
+   _Tools: Python, RoBERTa, Hugging Face transformers, Discord API_
 
    - Discord bot that generates reports for content moderators by automatically detecting COVID-19 misinformation and prompting users through reporting flow advised by Alex Stamos (former Facebook CISO)
    - Achieved approval by Trust and Safety industry experts from Twitter, Meta, Google, Discord, Tik Tok, Reddit, etc.
